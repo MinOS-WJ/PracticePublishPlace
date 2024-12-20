@@ -1,3 +1,4 @@
+/*use c++ grammar ,something would be EOF in c*/
 #include<stdio.h>
 #include<stdlib.h>
 
